@@ -1,2 +1,2 @@
 # notes-app
-This is my first JavaScript Notes App
+This is my first JavaScript Notes App [Not Complete]
